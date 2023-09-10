@@ -91,18 +91,18 @@ input[type="text"] {
     &:before {
         content: "";
         position: absolute;
-        bottom: 0;
-        left: 0;
         width: 0%;
         height: 100%;
-        background-color: darken($color, 15%);
+        bottom: 0;
+        left: 0;
+        background-color: darken($color, 10%);
         transition: all 0.3s;
         border-radius: 10rem;
         z-index: -1;
     }
 
     &:hover {
-        color: #fff;
+        color: white;
 
         &:before {
             width: 100%;
