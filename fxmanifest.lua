@@ -2,9 +2,8 @@ fx_version 'cerulean'
 game { 'gta5' }
 
 author 'az0ox'
-description 'NUI Admin menu by az0ox'
+description 'NUI inputBans by az0ox'
 version '1.0.0'
-repository 'https://github.com/nathan-echt/azx_admin'
 
 ui_page 'html/index.html'
 
